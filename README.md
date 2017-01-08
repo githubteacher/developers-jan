@@ -5,6 +5,10 @@
  - Cynthia Rich (@crichID)
  - Matt Desmond (@beardofedu)
 
+## Get Help!
+
+[![Join the chat at https://gitter.im/developers-jan/Lobby](https://badges.gitter.im/developers-jan/Lobby.svg)](https://gitter.im/developers-jan/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## Give Us Feedback
 
 Please take a moment to complete the class survey at: https://goo.gl/9YycPG.
