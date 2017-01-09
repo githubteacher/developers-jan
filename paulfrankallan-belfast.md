@@ -10,3 +10,4 @@
 ### Fun things to do
 
  - Visit Titanic Centre
+ - Go on the Duck Bus Tour
