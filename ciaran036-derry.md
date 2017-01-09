@@ -7,8 +7,8 @@
 - Walled City Brewery
 
 ### Great places for buns
-- Doherty's bakery 
-- Get a vol-au-vent from Frankie Ramsey's
+- Doherty's bakery - Try a jam turnover
+- Frankie Ramsey's - known for their vol-au-vents
 
 ### Fun things to do
 - Dunnes stores
