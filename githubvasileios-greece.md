@@ -7,3 +7,5 @@
  ### Fun things to do
 
    -Hiking
+   -Swimming
+   -Museums
