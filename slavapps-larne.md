@@ -9,3 +9,5 @@
 ## Fun Things to Do
 - Something something
 - Omniplex Cinema
+
+Added an emoji for bants :smile: :)
