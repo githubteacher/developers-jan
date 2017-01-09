@@ -2,6 +2,4 @@
 
 ### Great place 
 
-### It and edu hub
-
-### Industrial hub also
+### It , edu and Industrial hub
