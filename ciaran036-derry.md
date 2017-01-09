@@ -6,7 +6,7 @@
 
 ### Great places for buns
 - Doherty's bakery 
-- Get a volauvent from Frankie Ramsey's
+- Get a vol-au-vent from Frankie Ramsey's
 
 ### Fun things to do
 - Dunne's stores
