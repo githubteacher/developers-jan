@@ -6,3 +6,6 @@
 - Deanes
 
 ## Things to do
+
+- Ulster Museum
+- Belfast City Hall
