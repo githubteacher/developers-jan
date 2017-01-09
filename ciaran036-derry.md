@@ -1,4 +1,4 @@
-## Derry/Londonderry, Northern Ireland
+## Derry, Northern Ireland
 
 ### Great places to eat
 
