@@ -9,3 +9,4 @@ Some recommendations for visiting Belfast, NI.
 ### Things to do
 
 - Beach Club
+- Bax
