@@ -7,3 +7,6 @@
 ### Places to eat
 - [ ] Neugal cafe
 - [ ] Joy
+
+### Add history place
+- Kangra Fort
