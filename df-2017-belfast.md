@@ -7,3 +7,5 @@ Some recommendations for visiting Belfast, NI.
 - Boojum
 
 ### Things to do
+
+- Beach Club
